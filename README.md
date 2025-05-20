@@ -23,7 +23,9 @@ SEO yolunda sağlam adımlar atmak için güvenilir ve deneyimli bir hacklink sa
 
 **Güvenilir hacklink hizmeti için [hacklinkmarket.com](https://hacklinkmarket.com) profesyonel çözümler sunuyor. SEO’da fark yaratmak için bugün harekete geçin!**
 
-<a href="https://shortlinkapp.com/BQXPx" target="_blank">
-  <img src="https://github.com/hkmarket/hcklinktr/blob/main/hklink.png?raw=true" alt="hklink banner" width="830" height="450" />
-</a>
+<p align="center">
+  <a href="https://shortlinkapp.com/BQXPx" target="_blank">
+    <img src="https://github.com/hkmarket/hcklinktr/blob/main/hklink.png?raw=true" alt="hklink banner" width="830" height="450">
+  </a>
+</p>
 
